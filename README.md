@@ -61,7 +61,7 @@ Feel free to reach out via email at:
 
 ## 📄 Resume
 You can **download or view my resume** here:  
-[Download Resume PDF](https://my-portfolio-nu-tawny-56.vercel.app/Resume.pdf)
+[Download Resume PDF](https://my-portfolio-nu-tawny-56.vercel.app/resume.pdf)
 
 
 ---
