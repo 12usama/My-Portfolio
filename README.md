@@ -59,5 +59,21 @@ Feel free to reach out via email at:
 
 ---
 
+## 📄 Resume
+You can **download or view my resume** here:  
+[![Download Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://my-portfolio-nu-tawny-56.vercel.app/Resume.pdf)
+
+> ⚠️ Make sure your `Resume.pdf` is uploaded to your repository or hosted online at the link above.
+
+---
+
+## 🔗 Social Links
+Connect with me:
+
+[![GitHub](https://img.shields.io/badge/GitHub-Usama-black?style=for-the-badge&logo=github)](https://github.com/12usama)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usama-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-usama-alam-ridwane-376b3a1a4/)  
+[![Email](https://img.shields.io/badge/Email-Usama%40example.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamaalam3999@gmail.com)
+
+
    
 
