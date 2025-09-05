@@ -61,9 +61,8 @@ Feel free to reach out via email at:
 
 ## 📄 Resume
 You can **download or view my resume** here:  
-[![Download Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://my-portfolio-nu-tawny-56.vercel.app/Resume.pdf)
+[Download Resume PDF](https://my-portfolio-nu-tawny-56.vercel.app/Resume.pdf)
 
-> ⚠️ Make sure your `Resume.pdf` is uploaded to your repository or hosted online at the link above.
 
 ---
 
