@@ -71,7 +71,7 @@ const Navbar = () => {
           {/* Navbar End */}
           <div className="navbar-end">
             <a
-              href="/public/resume.pdf"
+              href="/resume.pdf"
               download="Usama_Ridwane_Resume.pdf"
               className="btn btn-primary"
             >
